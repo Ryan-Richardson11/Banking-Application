@@ -1,4 +1,4 @@
-Bank System
+Mock Bank System
 - This project implements a simple bank system in Python, featuring account management, transactions, and banking operations. The system comprises several files, each serving a specific purpose.
 
 Account_Final.py
